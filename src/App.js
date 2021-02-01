@@ -13,9 +13,9 @@ const Tab = createBottomTabNavigator();
 const Drawer = createDrawerNavigator();
 
 const TabIcons = {
-  'Home': 'dashboard',
-  'Profile': 'archive',
-  'Settings': 'bell',
+  'Home': 'home',
+  'Profile': 'user',
+  'Settings': 'wrench',
 };
 
 const BottomTab = () => (

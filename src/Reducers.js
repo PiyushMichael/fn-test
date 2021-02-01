@@ -2,7 +2,7 @@ import { SET_FORM, SET_NAV } from 'Constants';
 import { combineReducers } from 'redux';
 
 const INITIAL_FORM_STATE = {
-  name: 'User',
+  name: 'Piyush Michael',
 };
 
 const INITIAL_NAV_STATE = {
